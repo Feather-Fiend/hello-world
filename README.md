@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Feather Fiend here! I'm a wannabe researcher.
